@@ -1,0 +1,24 @@
+#main{
+    margin-top: 2vh;
+    height: 60vh;
+}
+#messageBox{
+    height: 56vh;
+    width: 400px;
+    /* border: 1px solid black */
+}
+#form{
+    margin-top: 5px;
+    width: 400px;
+    top:57vh
+}
+#messageInput{
+    width: 400px;
+    border: black 1px solid;
+}
+.msg{
+    display: flex;
+}
+.command{
+    color: red;
+}
